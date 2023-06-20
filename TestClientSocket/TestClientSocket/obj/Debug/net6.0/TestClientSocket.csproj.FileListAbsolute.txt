@@ -1,0 +1,15 @@
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\bin\Debug\net6.0\TestClientSocket.exe
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\bin\Debug\net6.0\TestClientSocket.deps.json
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\bin\Debug\net6.0\TestClientSocket.runtimeconfig.json
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\bin\Debug\net6.0\TestClientSocket.dll
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\bin\Debug\net6.0\TestClientSocket.pdb
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.csproj.AssemblyReference.cache
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.AssemblyInfoInputs.cache
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.AssemblyInfo.cs
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.csproj.CoreCompileInputs.cache
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.dll
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\refint\TestClientSocket.dll
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.pdb
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\TestClientSocket.genruntimeconfig.cache
+C:\Users\Rezafta\Desktop\TestClientSocket\TestClientSocket\TestClientSocket\obj\Debug\net6.0\ref\TestClientSocket.dll
